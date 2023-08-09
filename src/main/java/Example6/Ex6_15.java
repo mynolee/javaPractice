@@ -1,3 +1,5 @@
+package Example6;
+
 public class Ex6_15 {
     static int[] arr = new int[10];
 

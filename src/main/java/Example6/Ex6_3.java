@@ -1,7 +1,9 @@
+package Example6;
+
 class Ex6_3 {
     public static void main(String[] args) {
-        System.out.println("Card.width = " + Card.width);
-        System.out.println("Card.height =" + Card.height);
+        System.out.println("Example6.Card.width = " + Card.width);
+        System.out.println("Example6.Card.height =" + Card.height);
 
         Card c1 = new Card();
         c1.kind = "Heart";

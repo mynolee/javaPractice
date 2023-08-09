@@ -1,3 +1,5 @@
+package Example6;
+
 class Data3{int x;}
 
 class Ex6_8 {

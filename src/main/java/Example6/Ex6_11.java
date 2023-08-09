@@ -1,3 +1,5 @@
+package Example6;
+
 class Data_1{
     int value;
 }

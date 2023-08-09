@@ -1,3 +1,5 @@
+package ex2;
+
 class Ex2_8 {
     public static void main(String args[]){
         int x = 10, y = 5;

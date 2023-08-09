@@ -1,3 +1,5 @@
+package Example6;
+
 class Car{
     String color;
     String gearType;

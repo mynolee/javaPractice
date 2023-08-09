@@ -1,3 +1,5 @@
+package Example6;
+
 class Ex6_10 {
     public static void main(String[] args) {
         MyMath3 mm = new MyMath3();

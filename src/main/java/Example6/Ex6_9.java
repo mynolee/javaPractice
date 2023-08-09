@@ -1,3 +1,5 @@
+package Example6;
+
 class MyMath2{
     long a,b;
 
