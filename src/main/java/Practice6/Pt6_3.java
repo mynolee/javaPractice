@@ -28,8 +28,11 @@ class Student3{
         return kor + eng + math;
     }
 
-    float getAverage(){
-        return (Math.round((float)(kor + eng + math)/3*10));
+    float getAverage2(){
+        int a = Math.round((float)(kor + eng + math)/3*10);
+        return (float)a/10;
     }
-
+    float getAverage(){
+        return (float)Math.round((float)(kor + eng + math)/3*10)/10;
+    }
 }
