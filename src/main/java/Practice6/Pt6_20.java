@@ -1,9 +1,24 @@
-/*
+
 package Practice6;
 
 
 class Pt6_20 {
 
+    static int max(int[] arr){
+        if (arr == null || arr.length == 0) return -999999;
+
+        int a = arr[0];
+        for(int i = 0; i<arr.length; i++){
+            if (a > arr[i]) {
+                a = a;
+            } else {
+                a = arr[i];
+            }
+        }
+
+        return a;
+
+    }
 
 
     public static void main(String[] args){
@@ -16,4 +31,4 @@ class Pt6_20 {
 }
 
 
-*/
+

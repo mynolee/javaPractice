@@ -1,4 +1,4 @@
-/*
+
 package Practice6;
 
 
@@ -12,34 +12,40 @@ class MyTv {
     final int MAX_CHANNEL = 100;
     final int MIN_CHANNEL = 1;
 
-    void turnOnOff(){
-
-
-
+    void turnOnOff() {
+        if ( isPowerOn = true) {
+            isPowerOn = false;
+        } else {
+            isPowerOn = true;
+        }
     }
 
-    void volumeUp(){
-
-
-
+    void volumeUp() {
+        if( volume < MAX_VOLUME){
+            volume++;
+        }
     }
 
-    void volumeDown(){
-
-
-
+    void volumeDown() {
+        if( MIN_VOLUME < volume ){
+            volume--;
+        }
     }
 
     void channelUp(){
-
-
-
+        if (channel == MAX_CHANNEL){
+            channel = MIN_CHANNEL;
+        }else {
+            channel++;
+        }
     }
 
     void channelDown(){
-
-
-
+        if( channel == MIN_CHANNEL){
+            channel = MAX_CHANNEL;
+        } else {
+            channel--;
+        }
     }
 }
 
@@ -62,4 +68,4 @@ class Pt6_19{
     }
 }
 
-*/
+
