@@ -61,7 +61,7 @@ class Buyer2 {
     }
 }
 
-class Ex7_9 {
+class Ex7_09 {
     public static void main(String args[]) {
         Buyer2 b = new Buyer2();
 

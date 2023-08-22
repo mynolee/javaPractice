@@ -1,6 +1,6 @@
 package Example7;
 
-class Ex7_7 {
+class Ex7_07 {
     public static void main(String[] args){
         Car car = null;
         FireEngine fe = new FireEngine();

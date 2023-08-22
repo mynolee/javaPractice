@@ -1,6 +1,6 @@
 package Example7;
 
-class Ex7_3 {
+class Ex7_03 {
     public static void main(String[] args){
         Child2 c = new Child2();
         c.method();

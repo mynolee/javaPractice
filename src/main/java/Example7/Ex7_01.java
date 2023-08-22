@@ -18,7 +18,7 @@ class SmartTv extends Tv {
     }
 }
 
-class Ex7_1 {
+class Ex7_01 {
     public static void main(String args[]) {
         SmartTv stv = new SmartTv();
         stv.channel = 10;
