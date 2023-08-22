@@ -1,19 +1,19 @@
 package Practice6;
 
-class Pt6_5 {
+class Pt6_05 {
     int kind;
     int num;
 
     static int width;
     static int height;
 
-    Pt6_5(int k, int n){
+    Pt6_05(int k, int n){
         kind = k;
         num = n;
     }
 
     public static void main(String[] args){
-        Pt6_5 card = new Pt6_5(1,1);
+        Pt6_05 card = new Pt6_05(1,1);
     }
 }
 

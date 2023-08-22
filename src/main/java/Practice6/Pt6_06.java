@@ -19,7 +19,7 @@ class Mypoint {
 
 }
 
-class Pt6_6{
+class Pt6_06{
     public static void main(String[] args){
         Mypoint p = new Mypoint(1, 1);
 

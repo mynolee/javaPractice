@@ -1,6 +1,6 @@
 package Practice6;
 
-class Pt6_3 {
+class Pt6_03 {
     public static void main(String[] args){
         Student3 s = new Student3();
         s.name = "홍길동";
