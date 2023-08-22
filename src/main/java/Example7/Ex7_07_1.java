@@ -1,6 +1,8 @@
-package Example7;
+/*package Example7;
 
-class Ex7_07 {
+
+
+class Ex7_07_1 {
     public static void main(String[] args) {
         Car car = null;
         FireEngine fe = new FireEngine();
@@ -11,12 +13,30 @@ class Ex7_07 {
         fe2 = (FireEngine) car;
         fe2.water();
 
+        Supportor supportor = new SoJaeang();
+        if (supportor instanceof BlJaeang){
+            ((BlJaeang)supportor).grap();
+        }
+    }
+}
+
+class Supportor {
+    void support() {
 
     }
 }
 
+class SoJaeang extends Supportor {
+    void heal() {
 
+    }
+}
 
+class BlJaeang extends Supportor {
+    void grap() {
+
+    }
+}
 
 class Car {
     String color;
@@ -36,3 +56,6 @@ class FireEngine extends Car {
         System.out.println("water!!!");
     }
 }
+
+
+ */
