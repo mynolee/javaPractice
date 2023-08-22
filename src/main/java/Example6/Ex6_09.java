@@ -14,7 +14,7 @@ class MyMath2{
     static double divide(long a, long b) { return a / (double) b;}
 }
 
-class Ex6_9 {
+class Ex6_09 {
     public static void main(String args[]){
         System.out.println(MyMath2.add(200L, 100L));
         System.out.println(MyMath2.subtract(200L, 100L));

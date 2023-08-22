@@ -1,6 +1,6 @@
 package Example6;
 
-class Ex6_2 {
+class Ex6_02 {
     public static void main(String[] args) {
         Tv t1 = new Tv();
         Tv t2 = new Tv();

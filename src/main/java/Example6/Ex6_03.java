@@ -1,6 +1,6 @@
 package Example6;
 
-class Ex6_3 {
+class Ex6_03 {
     public static void main(String[] args) {
         System.out.println("Example6.Card.width = " + Card.width);
         System.out.println("Example6.Card.height =" + Card.height);

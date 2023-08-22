@@ -2,7 +2,7 @@ package Example6;
 
 class Data3{int x;}
 
-class Ex6_8 {
+class Ex6_08 {
     public static void main(String[] args){
         Data3 d = new Data3();
         d.x = 10;
