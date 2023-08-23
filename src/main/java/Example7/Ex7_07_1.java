@@ -1,4 +1,9 @@
-/*package Example7;
+/*
+참조변수 형변환 예시 들어서 설명한거
+헷갈릴만한 부분 확인
+
+
+package Example7;
 
 
 
