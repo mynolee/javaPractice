@@ -1,4 +1,6 @@
+/*
 package Example7;
+
 
 import java.awt.*;
 import java.awt.event.*;
@@ -18,3 +20,5 @@ class EventHandler implements ActionListener {
 
     }
 }
+
+*/
