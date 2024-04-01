@@ -1,4 +1,7 @@
+/*
 package Practice7;
+
+
 
 class SutdaDeck {
     final int CARD_NUM = 20;
@@ -44,3 +47,5 @@ class Pt7_1 {
             System.out.print(deck.cards[i] + ",");   //이거 보고 deck에 cards[i]에 관한 정보가 있음을 알 수 있어야
     }
 }
+
+*/
