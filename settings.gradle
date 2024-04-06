@@ -1,2 +1,4 @@
 rootProject.name = 'javaPractice'
+include 'src:main:javaProblem'
+findProject(':src:main:javaProblem')?.name = 'javaProblem'
 
